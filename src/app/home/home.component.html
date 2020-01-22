@@ -1,0 +1,54 @@
+<body>
+<div class="container">
+
+    <div class="row" *ngIf="dataService.searchedFlag && dataService.filteredData.length > 0">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-12 searchText">
+            <span>Solutions related to "{{dataService.searchText}}"</span>
+        </div>
+    </div>
+    <div class="row" *ngIf="dataService.filteredData.length ===0">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-12 searchText">
+            <span>Sorry! there is no solution related to "{{dataService.searchText}}"</span>
+        </div>
+    </div>
+        <div class="row">
+            <!-- <div *ngFor="let d of dataService.filteredData;let i=index" class="col-lg-4 col-md-6 col-sm-6 col-12"
+                (click)="setIndex(d.id)">
+                <div class="features-small-item" ng>
+                    <div class="icon">
+                        <i><img src="/assets/featured.png" alt=""></i>
+                    </div>
+                    <h5 class="features-title">{{d.title}}</h5>
+                    <p>{{d.desc}}</p>
+                </div>
+            </div> -->
+            <div *ngFor="let d of pageOfItems" class="col-lg-4 col-md-6 col-sm-6 col-12" (click)="setIndex(d.id)">
+                <div class="features-small-item">
+                    <div class="icon">
+                        <i><img src="/assets/featured.png" alt=""></i>
+                    </div>
+                    <h5 class="features-title">{{d.title}}</h5>
+                    <p>{{d.desc}}</p>
+                </div>
+            </div>
+            
+
+        </div>
+
+        <div class="row mb-2">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-12">
+
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-12 flex-container">
+
+                <jw-pagination [items]="dataService.filteredData" (changePage)="onChangePage($event)" [pageSize]="6" [maxPages]="3">
+                </jw-pagination>
+
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-12 justify-content">
+
+            </div>
+
+        </div>
+    </div>
+</body>

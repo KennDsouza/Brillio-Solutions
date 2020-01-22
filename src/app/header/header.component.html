@@ -1,0 +1,13 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light cust-nav sticky">
+  <a class="navbar-brand " [routerLink]="['/']"><img src="../../assets/navLogo.png" alt="" class="nav-logo" tooltip="Home" placement="bottom" show-delay="10"></a>
+    <ul class="navbar-nav mr-auto">
+      <!-- <li class="nav-item active">
+        <button class="nav-link" routerLink="/"><fa name="home" class="fa-lg" id="homeButtton"></fa></button>
+      </li> -->
+    </ul>
+    <form class="form-inline  my-lg-0">
+      <input class="form-control mr-sm-2 round-border" type="search" placeholder="Search here"  name="searchText" aria-label="Search" [(ngModel)]="searchText" (input)="search($event)">
+      <button class="btn searchButton my-2 my-sm-0 round-border"  type="submit" id="searchButton" (click)="search($event)">Search</button>
+    </form>
+</nav>  
+

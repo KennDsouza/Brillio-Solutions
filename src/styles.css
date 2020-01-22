@@ -1,0 +1,47 @@
+
+body{
+    display: block;
+    /* background-image :url("/assets/homebg.jpg") !important; */
+
+    background-color:#2E2D2B !important;
+    height: 500px;
+    overflow-x: hidden;
+    
+}
+
+.scroll {
+  width: 20px;
+  height: 200px;
+  overflow: auto;
+  float: left;
+  margin: 0 10px;
+}
+
+  body::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 10em;
+    opacity: 0.5 !important;
+  }
+   
+  body::-webkit-scrollbar-thumb {
+    background: rgb(233, 236, 239); 
+    border-radius: 10em;
+    opacity: 0.5 !important;
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgb(65, 65, 65); 
+    /* border-radius: 5em; */
+    opacity: 0.5 !important;
+  }
+
+  
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+strong {
+  background-color:yellow !important;
+  font-weight: 200 !important;
+
+}

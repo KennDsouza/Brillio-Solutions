@@ -1,0 +1,521 @@
+[
+    {
+        "title": "High Performance Engineering DevOps Jumpstart Kit",
+        "desc": "Choice of tool breeds innovation",
+        "solution": [
+            {
+                "title": "Solution brief ",
+                "content": "DevOps kit is a ready to use end to end DevOps implementation framework right from consultation on maturity model , read to use plug in kits for DevOps orchestration and helps in end to end DevOps implementation at an enterprise level.Further, it consists of Brillio BOLT, which is an insights platform that measures your project to product journey"
+            },
+            {
+                "title": "Why will customers buy this",
+                "content": [
+                    "We do Strategy, consultation & implementation (End to end DevOps )",
+                    "Speed to market! Extremely fast(11 seconds roll out for some clients)(Higher ROI)",
+                    "Our IP Brillio BOLT is a  world class tool with tremendous value add and differentiator which will measure project to product journey (Relevant KPI’s)",
+                    "We integrate with multiple technologies, ERP and CRM products",
+                    "Realize (20 to 60)% ROI on your DevOps investment"
+                ]
+            },
+            {
+                "title": "Customer pain points",
+                "content": [
+                    "Time to roll out application/products into market (high waiting time for code development)",
+                    "Challenge in collaboration of Biz, Dev and Ops)",
+                    "Missing Product KPI’s at and enterprise level",
+                    "Unfit DevOps/Tool culture"
+                ]
+            },
+            {
+                "title": "Solution capabilities",
+                "content": [
+                    "DevOps Maturity model (Consultation )",
+                    "Jumpstart kits (customizable, configurable , secure)",
+                    "Containerization  framework",
+                    "DevOps Insights platform –BOLT",
+                    "Cultural transformation "
+                ]
+            },
+            {
+                "title": "Level of engagement",
+                "content": [
+                    "Engagement 1 : Consultation that will open doors to multi-year deals",
+                    "Engagement 2: DevOps implementation with BOLT as value add",
+                    "Engagement 3: Consultation + implementation + BOLT(With higher ROI for clients)"
+                ]
+            },
+            {
+                "title": "Our Credibility ( Skin in the game )",
+                "content": [
+                    "7+ consulting engagement in 2019",
+                    "15+ DevOps transformation projects",
+                    "10+ Brillio BOLT implementation",
+                    "Brillio as mid-sized leader in Forrester wave factors DevOps as a major parameter",
+                    "High level of DevOps Maturity as per McKinsey Consultation",
+                    "Brillio as mid-sized leader in Forrester wave factors DevOps as a major parameter",
+                    "Top clients – Cartus, Move, Verizon, Freddie,Master Card, Lineage"
+                ]
+            },
+            {
+                "title": "Top 3 target buyer segment",
+                "content": "CIO, CTO, VP of IT/Engineering/Products"
+            }
+        ],
+        "useCase": [
+            {
+                "title": "Improve collaboration between teams (Business / Dev / Ops)",
+                "what": "DevOps paves the way to improve business agility by providing the much need atmosphere of mutual collaboration, communication, and integration.",
+                "why": [
+                    "Effective decision making",
+                    "Integration across teams in an IT organization (Cultural transformation)"
+                ]
+            },
+            {
+                "title": "Reduced Time-to-Recovery",
+                "what": "The time to recover to operational efficiency is relatively reduced in a DevOps environment compared to a traditional IT environment.",
+                "why": [
+                    "Improved Defect Detection",
+                    "Shorter Development Cycle.",
+                    "Silos can no longer exist with DevOps"
+                ]
+            },
+            {
+                "title": "Continuous service delivery",
+                "what": "The gaps between requirement gathering and production are reduced significantly, codes are also released into the production cycles quickly.",
+                "why": [
+                    "Quicker turnaround of development cycles"
+                ]
+            }
+        ],
+        "essentialGlossaries": [
+            "Measuring Project to Product Journey ",
+            "Flow metric",
+            "DevOps as a culture transformation",
+            "Best of breed toolkits",
+            "Continuous plan, continuous test, continuous release, continuous monitoring",
+            "Project insights",
+            "Product KPIs",
+            "Faster time to market",
+            "Tool collaboration",
+            "Value stream mapping",
+            "Tool integration"
+        ],
+        "id": 0
+    },
+    {
+        "title": "Product Centric Development",
+        "desc": "Pivot from Projects to Products",
+        "solution": [
+            {
+                "title": "Solution brief ",
+                "content": "A 'Product-Centric Delivery' model is a new way of organizing people, and continuously delivering value to customers with more emphasis on Outcome rather than the Output.It encapsulates a set of methods, best practices, technology enablers and a mindset to PLAN-BUILD-RUN products that are wired for future… @Human scale"
+            },
+            {
+                "title": "Why will customers buy this",
+                "content": [
+                    "Brillio aims to progressively roll existing Processes, People, Technology, Culture into a Product Mindset to drive business agility",
+                    "We can provide Consult- Strategize & Co-create -Implement (End to End) services",
+                    "Enables organizations to accelerate solution delivery with outcome driven squads and drive speed of innovation by leveraging the best practices of Agile, Lean and Value Stream Thinking",
+                    "Looking for strategic partner who will support the navigation with the customized maturity journey"
+                ]
+            },
+            {
+                "title": "Customer Pain Points",
+                "content": [
+                    "Struggling to Pivot from project to product mindset and delivery",
+                    "Agile implemented in silos but does not reap intended benefits at enterprise scale; Struggle to mature from product level -> portfolio level-> organizational level",
+                    "Redesign organizational structures, change long-established ways of working for agility and innovation",
+                    "Struggle to leverage the best practices of Agile, Lean and Value Stream Thinking to drive business agility",
+                    "Alignment to new ways of working across the board"
+                ]
+            },
+            {
+                "title": "Solution capabilities",
+                "content": [
+                    "Holistic Product Maturity Assessment & Recommendation across dimensions of Product Strategy Design, Agility, HPE(DevOps) and Innovation. (spanning across 40+ sub dimensions)",
+                    "Modern Delivery Co-creation for PLAN-BUILD–RUN and support the enterprise transformation and adoption",
+                    "Accelerated Solution delivery with Outcome driven Squads"
+                ]
+            },
+            {
+                "title": "Level of engagement",
+                "content": [
+                    "Engagement 1 : 4-6 Weeks assessment will open doors to examine and understand possible interventions, that will accelerate the maturity journey in their agile transformation",
+                    "Engagement 2: 8-32 Weeks from Consultation + implementation (Ways of Working interventions, Workforce transformation, Outcome driven Squads, Trainings, Identifying value streams etc.)"
+                ]
+            },
+            {
+                "title": "Our Credibility ( Skin in the game )",
+                "content": [
+                    "Recognized as a leader in ‘The Forrester Wave™: Midsize Agile Software Development Service Providers, Q2 2019",
+                    "Holistic maturity Assessment accelerated by leveraging Brillio Product Maturity ModelTM(PMM) and quantitatively measure progress at every stage of transformation",
+                    "10+ Brillio BOLT implementation",
+                    "Implementation delivery accelerated with our own IP’s for Engineering Machinery - Brillio XOTM, BOLTTM, DEVOPS TOOLKITTM , SMARTESTTM, CLIPTM, DIGITAL INDEXTM",
+                    "Top clients – Cartus, Move, Ciena, Verizon"
+                ]
+            },
+            {
+                "title": "Top 3 target buyer segment",
+                "content": "CIO, CTO, VP of IT/Engineering/Products"
+            }
+        ],
+        "useCase": [
+            {
+                "title": "Pivot from project to product driving continuous flow of value",
+                "what": " Re-think organization functions with Value Stream Thinking to drive better flow of value in a product centric way",
+                "why": [
+                    "Real benefits & far-reaching impact arise with broader transformation",
+                    "Gains often require giving up some pre-existing ways of working."
+                ]
+            },
+            {
+                "title": "Drive speed of innovation",
+                "what": "Companies find themselves wanting to drive innovation by Infusing experimentation and iteration into organization DNA",
+                "why": [
+                    "Helps increase customer centricity, collaboration, learning, and more.",
+                    "Improves Product/Software Quality"
+                ]
+            },
+            {
+                "title": "Emphasis on outcome rather than the output",
+                "what": "Transform and drive significant cultural changes by leveraging the best practices of Agile, Lean and Value Stream Thinking",
+                "why": [
+                    "Teams in different parts of the organization apply agile,lean principles to varying degrees and in multiple flavors, which led to a significant increase in the overhead of managing across teams",
+                    "Effective decision making"
+                ]
+            }
+        ],
+        "essentialGlossaries": [
+            "Harness full potential of Agile",
+            "Continuous flow of value",
+            "Empowered Product Ownership",
+            "Agile, Lean and Value Stream Thinking",
+            "Increase Product/Software Quality",
+            "Quick wins to product centricity",
+            "Customized maturity realization path",
+            "Infusing experimentation and iteration into organization DNA",
+            "Scaling up beyond agile pilots",
+            "Improve Predictability"
+        ],
+        "id": 1
+    },
+    {
+        "title": "APIfication",
+        "desc": "Boost product development & scalability ",
+        "solution": [
+            {
+                "title": "Solution brief",
+                "content": "Brillio offers digital integration services with end to end API offerings from Strategy through execution. Brillio’s API First Strategy acts as an engine to connect and integrate the assets within the enterprise Additionally, the solution unlocks additional business value(API Economy) through the creation of new asset classes"
+            },
+            {
+                "title": "Why will customers buy this",
+                "content": [
+                    "End to end API offerings – Strategy to Implementation to management",
+                    "Strategic Partnership with MuleSoft and experience with APIGEE and WSO2",
+                    "Ready to use plug-n-play services (jumpstart kit) with Microservices & API first led solution",
+                    "Reusable assets provides additional business value",
+                    "Easy integration with ERP, CRM, & 360 suite of enterprise  products"
+                ]
+            },
+            {
+                "title": "Customer pain points",
+                "content": [
+                    "Time to roll out application/products into market",
+                    "Tightly coupled architecture - hard to scale",
+                    "Lack leveraging existing services & middleware infrastructure– increased cost",
+                    "Inefficient technology - stifling innovation"
+                ]
+            },
+            {
+                "title": "Solution capabilities",
+                "content": [
+                    "API First Strategy & Management",
+                    "Monolithic to Microservices Transformation",
+                    "Architectural Blueprint (Assessment)",
+                    "API Implementation",
+                    "API Lifecycle Management"
+                ]
+            },
+            {
+                "title": "Level of engagement",
+                "content": [
+                    "Engagement 1: API assessment and consultation (3-6 weeks workshop)",
+                    "Engagement 2: API + Microservices consultation (1-3 months workshop)",
+                    "Engagement 3: API strategy +API led implementation + Product dev (6 months – multi year deals)"
+                ]
+            },
+            {
+                "title": "Our Credibility ( Skin in the game )",
+                "content": [
+                    "90% + Product Engineering engagements are API First led strategy and implementation",
+                    "Top clients – Move, Verizon, Master Card, Lineage",
+                    "High hit rate for MuleSoft led deals",
+                    "Partnership-"
+                ]
+            },
+            {
+                "title": "Top 3 target buyer segment",
+                "content": "CIO, CTO, VP of IT/Engineering/Products"
+            }
+        ],
+        "useCase": [
+            {
+                "title": "Plug-N-Play Architecture",
+                "what": "Make a fundamental shift to a composable application architecture such as microservices, and embracing cloud-based partners, enabling more agile, granular delivery of products and features, and elastic scalability.",
+                "why": [
+                    "Quicker turnaround of development cycles",
+                    "Extensibility: dynamically extended apps to include new features"
+                ]
+            },
+            {
+                "title": "Faster Time-to-Market",
+                "what": "Enable line of business to automate their own work across SaaS and existing systems of record.  Accelerate the pace of change within the business.",
+                "why": [
+                    "Integrate the assets within the enterprise",
+                    "Leverage existing resources while taking advantage of the latest technologies"
+                ]
+            },
+            {
+                "title": "Monetize existing assets through the API economy",
+                "what": "Enable new channels for revenue by enabling external usage of existing data and capability via the API economy",
+                "why": [
+                    "Open new revenue opportunities",
+                    "Leverage existing investments"
+                ]
+            }
+        ],
+        "essentialGlossaries": [
+            "API Economy",
+            "Product development/Journey",
+            "Monolithic/Microservices ",
+            "Monolithic/Microservices Architecture",
+            "Tightly Coupled",
+            "Faster development",
+            "Scalable Platform",
+            "Leverage existing infra and services",
+            "Product KPIs",
+            "IT transformation",
+            "Digital transformation",
+            "Project to product",
+            "Legacy modernization",
+            "Agile transformation"
+        ],
+        "id": 2
+    },
+    {
+        "title": "Agile Transformation Office",
+        "desc": "Make Agile at Scale Work",
+        "solution": [
+            {
+                "title": "Solution brief",
+                "content": "ATO can help enterprises to align more closely with the best practices of ‘being agile‘ than doing agile. This is ensured empower teams to innovate faster, produce more valuable work, react to changing needs better. It helps to set the right direction to implement the change in progressive steps towards empowered Product LeadershipLarge-scale agile transformation isn’t just about technology. It’s about a new way of thinking"
+            },
+            {
+                "title": "Why will customers buy this",
+                "content": [
+                    "We can provide Consult-Strategize & Co-create-Implement (End to End) services",
+                    "Companies today truly believe that when successful adoption of agile at scale happens, it has increased customer satisfaction by delivering better products faster while simultaneously improving efficiency and employee engagement.",
+                    "We significantly help to Improve predictability and quality by bringing in engineering expertise in agile delivery and leveraging proprietary tools/frameworks "
+                ]
+            },
+            {
+                "title": "Customer pain points",
+                "content": [
+                    "Agile implemented in silos but does not reap intended benefits at enterprise scale; Struggle to mature from product level -> portfolio level-> organizational level",
+                    "Redesign organizational structures, change long-established ways of working for agility and innovation.",
+                    "Struggle to measure impact from Agile"
+                ]
+            },
+            {
+                "title": "Solution capabilities",
+                "content": [
+                    "Agility Assessment across multiple dimensions – Agile Competency, Product Backlog Health, Engineering practices, Team culture etc. ",
+                    "Workforce transformation (feature squads) and Trainings ",
+                    "ROI-driven business case - identify customer value streams ",
+                    "Processes & Ways of working (Recommend potential Interventions & Provision Playbooks) "
+                ]
+            },
+            {
+                "title": "Level of engagement",
+                "content": [
+                    "Engagement 1 :2-4 Week assessment will open doors to examine and understand possible interventions",
+                    "Engagement 2: Provide Potential interventions that will accelerate the maturity journey in their agile transformation; provide necessary coaching/trainings from Agile SMEs (Agile Coach, Implementation Specialists)",
+                    "Engagement 3:  Consultation + implementation (Ways of Working interventions, Workforce transformation, Trainings, Identifying value streams etc.)"
+                ]
+            },
+            {
+                "title": "Our Credibility ( Skin in the game )",
+                "content": [
+                    "5+ Agile Transformation engagements in 2019 ",
+                    "Our Agile expertise is a leading factor to be featured as the leader in ‘The Forrester Wave™: Midsize Agile Software Development Service Providers, Q2 2019.",
+                    "Gartner cites “Brillio has more robust processes than most of its rivals for both helping clients implement Agile and scale it”",
+                    "Top clients – Cartus, Move, Medline, Verizon"
+                ]
+            },
+            {
+                "title": "Top 3 target buyer segment",
+                "content": "CIO, CTO, VP of IT/Engineering/Products"
+            }
+        ],
+        "useCase": [
+            {
+                "title": "Accelerate Agile@Scale Adoption & Improve Predictability ",
+                "what": "An Agile transformation Process provides visibility into the entire transformation - Planning Cycle provides the necessary flexibility, and ATO ensures that everyone involved in leading change—all the way up to senior management—takes responsibility for its success.",
+                "why": [
+                    "Align everyone towards success of Product delivery in Agile",
+                    "Improves Product/Software Quality ",
+                    "Effective decision making"
+                ]
+            },
+            {
+                "title": "Not treating agile as a strategic priority that goes beyond pilots",
+                "what": "Companies find themselves limiting agile success to pilots within a small part of the organization, with a small set of leader",
+                "why": [
+                    "Real benefits & far-reaching impact arise with broader agile transformation",
+                    "Teams in different parts of the organization apply agile principles to varying degrees and in multiple flavors, which led to a significant increase in the overhead of managing across teams"
+                ]
+            },
+            {
+                "title": "Ignoring the cultural and change-management implications of  agile",
+                "what": "An agile transformation can help drive significant cultural changes where desired.",
+                "why": [
+                    "Helps increase customer centricity, collaboration, learning, and more.",
+                    "Gains often require giving up some preexisting ways of working."
+                ]
+            }
+        ],
+        "essentialGlossaries": [
+            "Harness full potential of Agile",
+            "Empowered Product Ownership",
+            "Improve Predictability",
+            "Increase Product/Software Quality",
+            "Being agile boosts Employee ",
+            "Engagement",
+            "Scaling up beyond agile pilots",
+            "Cultural and change-management implications",
+            "Infusing experimentation and iteration into organization DNA"
+        ],
+        "id": 3
+    },
+    {
+        "title": "Brillio Squads",
+        "desc": "Realize business objectives through co-creation",
+        "solution": [
+            {
+                "title": "Solution brief",
+                "content": "Brillio offers Outcome based model (SQUADS) that is designed on the core principles of realization of business objectives and foster collaborative co-creation. Brillio’s SQUADS, comprises of 5-11 resources, who are multi-skilled, cross-functional and autonomous and are provisioned to deliver value from DAY 1"
+            },
+            {
+                "title": "Solution capabilities",
+                "content": [
+                    "Beacon Squads - Innovate and Experiment, in close proximity to the customer strategy",
+                    "Navigator Squads - Commercialize & operationalize the prototype that drives execution",
+                    "Accelerator Squads – Accelerate and drive the innovation",
+                    "Value Realizer Squads - Improve ROI and design future product strategy"
+    
+                ]
+            },
+            {
+                "title": "Customer pain points",
+                "content": [
+                    "Time to roll out application/products into market (high waiting time for code development)",
+                    "Challenge in collaboration of Biz, Dev and Ops)",
+                    "Missing Product KPI’s at and enterprise level",
+                    "Unfit DevOps/Tool culture"
+                ]
+            },
+            {
+                "title": "Top 3 target buyer segment",
+                "content": [
+                    "CIO, CTO, VP of IT/Engineering/Products"
+    
+    
+    
+                ]
+            },
+            {
+                "title": "Why will customers buy this ?",
+                "content": [
+                    "Best of the breed resources – identified through Quality selection and Training Framework ( Hackathons, interviews, rigorous trainings)",
+                    "Ready to deploy SQUADS from day 1",
+                    "Bringing the best practices of Brillio’s Product Engineering into the executions",
+                    "Better understanding of your company’s challenges Pay for results not",
+                    "Reduced risk ",
+                    "No hidden fees or surprise expenses -"
+    
+    
+    
+                ]
+            },
+            {
+                "title": "Level of engagement",
+                "content": [
+                    "# Engagement 1: Co-Dev Model: Brillio’s Squads to bring Product Engineering capabilities to align with client’s strategic initiatives (1-12 months)",
+                    "# Engagement 2: Strategic Partner: Brillio’s Squads to own end-to-end product development with incremental feature releases to deliver continuous value"
+    
+    
+    
+                ]
+            },
+            {
+                "title": "Customer pain points",
+                "content": ["Limited ownership and accountability from provider",
+                            "Sprint Velocity not aligned with -to-market timelines",
+                            "Lack hands-on expertise in technologies",
+                            "Unable to realize 100% value from provider"]
+    
+            },
+            {
+                "title": "Our Credibility ( Skin in the game )",
+                "content":     ["100+ certified professionals",
+                            "Full-stack developers transforming IT ecosystems on day to day basis",
+                            "High level of productivity achieved with SQUADS based model (Velocity ~80 SP/sprint)",
+                            "Brillio as mid-sized leader in Forrester wave – AGILE ",
+                            "100% Product Engineering projects works on Agile methodology",
+                            "Top clients – Cartus, Move, Verizon, Silicon Valley Bank, Turvo, Ciena"]
+    
+    
+    
+            }
+        ],
+        "useCase": [
+            {
+                "title": "Accelerated Development",
+                "what": "Brillio Squads with Product Engineering capabilities would accelerate MVP/ Product development",
+                "why": [
+                    "Reduced time-to-market for MVP",
+                    "Incremental feature roll out to meet market expectations"
+                ]
+            },
+            {
+                "title": "Aligned to customer",
+                "what": "Brillio’s outcome-based model interwinds customer and provider’s goals and aims at value creation through result-oriented engagement",
+                "why": [
+                    "Useful for projects that require the supplier to be aligned with a predefined customer vision"
+                ]
+            },
+            {
+                "title": "Domain led expertise",
+                "what": "Brillio’s Squads has domain led engineering capabilities – Telecom, BFSI, CP, E&U",
+                "why": [
+                    "Added advantage of domain knowledge",
+                    "Better understanding of requirements"
+                ]
+            }
+        ],
+        "essentialGlossaries": [
+            "Measuring Project to Product Journey ",
+            "Flow metric",
+            "DevOps as a culture transformation",
+            "Best of breed toolkits",
+            "Continuous plan, continuous test, continuous release, continuous monitoring",
+            "Project insights",
+            "Product KPIs",
+            "Faster time to market",
+            "Tool collaboration",
+            "Value stream mapping",
+            "Tool integration"
+        ],
+        "id": 4
+    }
+]

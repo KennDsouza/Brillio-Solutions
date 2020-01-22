@@ -1,0 +1,92 @@
+h2{
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: whitesmoke;
+}
+
+h6{
+    text-align: center;
+    color:whitesmoke;
+}
+
+.bottom-padding{
+    padding-bottom: 5em;
+}
+
+
+.row{
+    margin-top: 3em;
+}
+
+
+.card-body{
+    text-align: center;
+    max-height: 15em;
+    min-height: 15em;
+    overflow-y: scroll;
+    box-shadow: blanchedalmond;       
+}
+
+.card-body::-webkit-scrollbar {
+    display: none;
+  }
+
+
+.jumbotron
+{
+    overflow: scroll;
+    min-height: 30em !important;
+    max-height: 30em !important;
+    overflow-x: hidden !important;
+}
+
+.jumbotron::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 10em;
+    opacity: 0.5 !important;
+  }
+   
+  .jumbotron::-webkit-scrollbar-thumb {
+    /* background: rgb(233, 236, 239);  */
+    background: rgb(65, 65, 65); 
+
+    border-radius: 10em;
+    opacity: 0.5 !important;
+  }
+  
+  .jumbotron::-webkit-scrollbar-track {
+    background: rgb(233, 236, 239); 
+
+    /* border-radius: 5em; */
+    opacity: 0.5 !important;
+  }
+
+.card-body h5{
+    margin-top: 10px;
+}
+
+.card-body p {
+    /* margin-top: 20px; */
+    color: slategrey;
+    text-align: left;
+}
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgb(147, 184, 29) ;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    color : white;
+    text-align: justify;
+}
+
+.jumbotron {
+    padding: 2rem 2rem !important;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding: 10px !important;
+}

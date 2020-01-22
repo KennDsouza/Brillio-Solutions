@@ -1,0 +1,17 @@
+<div class="container bottom-padding">
+    <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-6 col-12" *ngFor="let card of solution">
+
+            <div class="jumbotron">
+                <h5 class="display-5" [innerHtml]="card.title | highlight:dataService.searchText"></h5>
+                <hr class="my-4">
+                <p *ngIf="!checkIfList(card.content)" [innerHtml]="card.content | highlight:dataService.searchText"></p> 
+                <div *ngIf="checkIfList(card.content)">
+                    <ul>
+                        <li *ngFor="let li of card.content" [innerHtml]="li | highlight:dataService.searchText"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

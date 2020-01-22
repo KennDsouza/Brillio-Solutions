@@ -1,0 +1,106 @@
+.span-custom{
+    max-width: 6em;
+    padding-left: 1em !important;
+    border-radius: 5em;
+    background-color: rgb(147, 184, 29) !important;
+}
+.span-custom-heading{
+    max-width: 19em;
+    min-width: 14.6em !important;
+    font-weight: 300;
+    /* padding-left: 1em !important; */
+  padding: 8px;
+    border-radius: 5em;
+    background-color: rgb(147, 184, 29) !important;
+}
+.dotted-divider{
+    border-top: 1px dotted grey !important;
+}
+.jumbotron {
+    padding: 1rem 2rem !important;
+}
+ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding: 2px !important;
+}
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    background-color: rgb(233, 236, 239) !important;
+    border: 1px solid rgba(0,0,0,.125);
+}
+
+.text-highlight{
+    background:yellow !important;
+}
+
+@media all and (max-width: 1200px) and (min-width: 992px){
+
+    .span-custom-heading{
+        max-width: 19em;
+        min-width: 12em !important;
+        font-weight: 300;
+        /* padding-left: 1em !important; */
+      padding: 8px;
+        border-radius: 5em;
+        background-color: rgb(147, 184, 29) !important;
+    }
+}
+
+@media all and (max-width: 767px) and (min-width: 576px){
+
+    .span-custom-heading{
+        max-width: 19em;
+    min-width: 5em !important;
+    font-weight: 300;
+    font-size: large;
+    padding: 8px;
+    border-radius: 5em;
+    background-color: rgb(147, 184, 29) !important;
+    }
+
+    ul {
+        margin-top: 0;
+        margin-bottom: 1rem;
+        padding: 0px !important;
+    }
+}
+
+@media all and (max-width: 992px) and (min-width: 767px){
+
+    ul {
+        margin-top: 0;
+        margin-bottom: 1rem;
+        padding: 2px !important;
+    }
+    .span-custom-heading{
+        max-width: 19em;
+    /* min-width: 5em !important; */
+    font-weight: 300;
+    font-size: large;
+    padding: 8px;
+    border-radius: 5em;
+    background-color: rgb(147, 184, 29) !important;
+    }
+}
+
+
+@media all and (max-width: 358px) and (min-width: 250px){
+    
+    .span-custom-heading{
+        max-width: 19em;
+    /* min-width: 5em !important; */
+    font-weight: 300;
+    font-size: large;
+    padding: 8px;
+    border-radius: 5em;
+    background-color: rgb(147, 184, 29) !important;
+    }
+  
+  
+  }
+
+
